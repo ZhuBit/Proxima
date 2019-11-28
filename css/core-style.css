@@ -134,8 +134,8 @@ img {
     top: 50%;
     left: 50%;
     margin-top: -15px;
-    margin-left: -15px;
-    width: 30px;
+    margin-left: -27px;
+    width: 60px;
     height: 30px;
     z-index: 8;
     -webkit-animation: 2000ms linear 0s normal none infinite running medica-thumb;
@@ -146,7 +146,7 @@ img {
     -webkit-animation: 2000ms linear 0s normal none infinite running medica-load;
     animation: 2000ms linear 0s normal none infinite running medica-load;
     background: transparent none repeat scroll 0 0;
-    border-color: #ffffff #ffffff #2f88fd;
+    border-color: #ffffff #C4298F #7281C0;
     border-radius: 50%;
     border-style: solid;
     border-width: 2px;
